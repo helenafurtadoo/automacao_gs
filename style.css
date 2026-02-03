@@ -16,7 +16,7 @@ h3 {
     font-size: 1.5em; /* Aumentado */
 }
 
-.imgLogo {
+.imglogo {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -179,7 +179,7 @@ h3 {
         font-size: 1.5em; /* Ajuste de tamanho da fonte */
     }
 
-    .imgLogo {
+    .imglogo {
         width: 50%; /* Maior em telas pequenas */
     }
 
@@ -217,7 +217,7 @@ h3 {
         font-size: 1.2em;
     }
 
-    .imgLogo {
+    .imglogo {
         width: 70%;
     }
 
